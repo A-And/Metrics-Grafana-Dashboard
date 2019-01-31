@@ -501,6 +501,5 @@
     },
     "timezone": "browser",
     "title": "Kubernetes Cluster Filesystem Metrics",
-    "uid": "000000007",
     "version": 12
   }
