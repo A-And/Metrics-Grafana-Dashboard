@@ -44,7 +44,7 @@
     },
     "description": "file descriptors, used, available metrics",
     "editable": true,
-    "gnetId": 9590,
+    "gnetId": null,
     "graphTooltip": 0,
     "id": null,
     "iteration": 1546480887632,
